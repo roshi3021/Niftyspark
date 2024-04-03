@@ -24,7 +24,7 @@ export default function Sidebar() {
         <div className="flex items-center justify-center mr-2 text-orange-500">
           <FontAwesomeIcon icon={faOtter} />
         </div>
-        <span className="truncate">MetaWallet</span>
+        <span className="truncate">NiftyBridge</span>
       </Link>
 
       <div className="flex flex-col overflow-y-auto">
